@@ -6,8 +6,6 @@
 
 [mailbox]: mailto:business@quantdevlabs.com
 
----
-
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-backendforge.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
+[<img src="https://spotify-now-playing-jasdian.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/petroniusz2009)
